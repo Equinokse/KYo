@@ -1,0 +1,5 @@
+a = list(eval(input()))
+a.remove(12)
+a.remove(2)
+a.remove(3)
+print(a)
